@@ -74,7 +74,7 @@
 /* base */
 
 body {
-  background-color: black!important;
+  background-color: red!important;
 }
 
 .no-js:not(html) {
