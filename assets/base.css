@@ -73,10 +73,6 @@
 
 /* base */
 
-body {
-  background-color: green!important;
-}
-
 .no-js:not(html) {
   display: none !important;
 }
